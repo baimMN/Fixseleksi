@@ -1,0 +1,32 @@
+.initable {
+text-align: center;
+ margin: auto;	 
+background-color: rgba(203,66,244,0.5);}
+
+.bg {
+height: 100%; 
+width: 100%;
+background: url(img/bg.jpg);
+left: 0px;
+z-index: -999;
+right: 0px;
+position: fixed;
+background-size: cover; }
+
+.inikat {
+	border-radius: 40px;
+	border: 1px solid purple;
+
+}
+.judul {
+	padding-top: 60px;
+}
+
+.test {
+	position: inherit;
+	margin-left: 40px;
+}
+
+.initable{
+	margin-bottom: 100px;
+}
